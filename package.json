@@ -32,6 +32,7 @@
     "@vueuse/core": "^11.1.0",
     "@vueuse/head": "^2.0.0",
     "pinia": "^2.2.4",
+    "unocss-preset-theme": "^0.14.1",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5"
   },
